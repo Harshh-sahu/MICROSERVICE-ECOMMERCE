@@ -1,0 +1,4 @@
+com\techie\microservices\order\stubs\InventoryClientStub.class
+com\techie\microservices\order\TestcontainersConfiguration.class
+com\techie\microservices\order\TestOrderServiceApplication.class
+com\techie\microservices\order\OrderServiceApplicationTests.class

@@ -1,0 +1,4 @@
+com\techie\microservices\order\event\OrderPlacedEvent$Builder.class
+com\techie\microservices\notification\service\NotificationService.class
+com\techie\microservices\NotificationServiceApplication.class
+com\techie\microservices\order\event\OrderPlacedEvent.class

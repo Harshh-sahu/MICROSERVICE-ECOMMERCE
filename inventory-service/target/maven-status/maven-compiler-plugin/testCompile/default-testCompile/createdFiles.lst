@@ -1,0 +1,3 @@
+com\techie\microservices\inventory\InventoryServiceApplicationTests.class
+com\techie\microservices\inventory\TestcontainersConfiguration.class
+com\techie\microservices\inventory\TestInventoryServiceApplication.class

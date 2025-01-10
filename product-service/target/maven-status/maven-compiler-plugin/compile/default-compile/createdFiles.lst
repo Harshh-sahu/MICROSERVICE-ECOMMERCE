@@ -1,0 +1,8 @@
+com\techie\mircroservices\product\dto\ProductResponse.class
+com\techie\mircroservices\product\repository\ProductRepository.class
+com\techie\mircroservices\product\model\Product$ProductBuilder.class
+com\techie\mircroservices\product\controller\ProductController.class
+com\techie\mircroservices\product\service\ProductService.class
+com\techie\mircroservices\product\dto\ProductRequest.class
+com\techie\mircroservices\product\ProductServiceApplication.class
+com\techie\mircroservices\product\model\Product.class

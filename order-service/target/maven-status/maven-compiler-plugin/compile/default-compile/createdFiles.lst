@@ -1,0 +1,12 @@
+com\techie\microservices\order\event\OrderPlacedEvent.class
+com\techie\microservices\order\dto\OrderRequest$UserDetails.class
+com\techie\microservices\order\modell\Order.class
+com\techie\microservices\order\dto\OrderRequest.class
+com\techie\microservices\order\repository\OrderRepository.class
+com\techie\microservices\order\config\RestClientConfig.class
+com\techie\microservices\order\service\OrderService.class
+com\techie\microservices\order\event\OrderPlacedEvent$Builder.class
+com\techie\microservices\order\OrderServiceApplication.class
+com\techie\microservices\order\controller\OrderController.class
+com\techie\microservices\order\config\OpenAPIConfig.class
+com\techie\microservices\order\client\InventoryClient.class

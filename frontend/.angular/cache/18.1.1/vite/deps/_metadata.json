@@ -1,0 +1,67 @@
+{
+  "hash": "26b007a4",
+  "configHash": "83f75e31",
+  "lockfileHash": "4809c89d",
+  "browserHash": "edcf173e",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "d7959b78",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "0e972272",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "b982d673",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "bef8dcf7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "e987fbdb",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "cacc795b",
+      "needsInterop": false
+    },
+    "angular-auth-oidc-client": {
+      "src": "../../../../../node_modules/angular-auth-oidc-client/fesm2022/angular-auth-oidc-client.mjs",
+      "file": "angular-auth-oidc-client.js",
+      "fileHash": "c329a0d5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-QBVXKPZ7": {
+      "file": "chunk-QBVXKPZ7.js"
+    },
+    "chunk-S3WWSC7L": {
+      "file": "chunk-S3WWSC7L.js"
+    },
+    "chunk-EKPFM6XR": {
+      "file": "chunk-EKPFM6XR.js"
+    },
+    "chunk-XSW3RYOF": {
+      "file": "chunk-XSW3RYOF.js"
+    },
+    "chunk-7TOM2KWX": {
+      "file": "chunk-7TOM2KWX.js"
+    }
+  }
+}

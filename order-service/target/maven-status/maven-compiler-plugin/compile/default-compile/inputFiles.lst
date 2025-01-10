@@ -1,0 +1,10 @@
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\controller\OrderController.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\modell\Order.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\dto\OrderRequest.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\event\OrderPlacedEvent.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\OrderServiceApplication.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\client\InventoryClient.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\repository\OrderRepository.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\config\OpenAPIConfig.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\config\RestClientConfig.java
+C:\Users\harsh\Desktop\PROGRAMMING TECHIE\order-service\src\main\java\com\techie\microservices\order\service\OrderService.java
