@@ -1,0 +1,11 @@
+# Ignore socket files
+*.sock
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore MySQL volume data
+api-gateway/volume-data/
+
+# Ignore other unnecessary files
+*.log
